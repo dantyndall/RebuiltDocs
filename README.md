@@ -9,6 +9,7 @@ Summary of contents:
 | File | Description |
 | --- | --- |
 | rebuilt_frc_rule_cheatsheet.pdf/rebuilt_rfc_rule_cheatsheet.pptx | Quick cheat sheet of important rules and their penalties. |
+| rebuilt_field.pdf | Field layout that can be laminated to use dry erase markers on. |
 | violation_sheet.pdf | A form that can be handed between Key Volunteers to track major violations. Recommended for lamination and used with dry erase markers.|
 
   
